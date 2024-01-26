@@ -25,14 +25,27 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
     <head>
       <title>5WC | 5 Digit World Cup 2024</title>
       <link rel='icon' href='/logo.png' />
-      <meta property="og:title" content="5 Digit World Cup" />
-      <meta property="og:site_name" content="5WC" />
+
+      <meta name="description" content="Calling all 5 digit osu! players! After a long wait, the 5 Digit World Cup is back — and it's better than ever.
+
+The 5 Digit World Cup is an annual world-cup-style community tournament for any osu! player with a 5 digit rank." />
+
       <meta property="og:url" content="https://5wc.stagec.xyz" />
+      <meta property="og:type" content="website" />
+      <meta property="og:title" content="5 Digit World Cup" />
       <meta property="og:description" content="Calling all 5 digit osu! players! After a long wait, the 5 Digit World Cup is back — and it's better than ever.
 
-      The 5 Digit World Cup is an annual world-cup-style community tournament for any osu! player with a 5 digit rank. Each year, team organisers from around the world seek out the best 5 digits to represent their country in hopes of winning the title of 5WC champion. In a few weeks, 32 qualifying countries will battle it out across 6 weeks of intense bracket stage competition — everyone is invited to participate and spectate each weekend!" />
-      <meta property="og:type" content="website" />
-      <meta property="og:image" content="https://5wc.stagec.xyz/logo.png" />
+The 5 Digit World Cup is an annual world-cup-style community tournament for any osu! player with a 5 digit rank." />
+      <meta property="og:image" content="https://5wc.stagec.xyz/logo_and_name.png" />
+
+      <meta name="twitter:card" content="summary_large_image" />
+      <meta property="twitter:domain" content="5wc.stagec.xyz" />
+      <meta property="twitter:url" content="https://5wc.stagec.xyz" />
+      <meta name="twitter:title" content="5 Digit World Cup" />
+      <meta name="twitter:description" content="Calling all 5 digit osu! players! After a long wait, the 5 Digit World Cup is back — and it's better than ever.
+
+The 5 Digit World Cup is an annual world-cup-style community tournament for any osu! player with a 5 digit rank." />
+      <meta name="twitter:image" content="https://5wc.stagec.xyz/logo_and_name.png" />
     </head>
     <ErrorProvider>
       <UserProvider>
