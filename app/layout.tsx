@@ -36,7 +36,7 @@ The 5 Digit World Cup is an annual world-cup-style community tournament for any 
       <meta property="og:description" content="Calling all 5 digit osu! players! After a long wait, the 5 Digit World Cup is back — and it's better than ever.
 
 The 5 Digit World Cup is an annual world-cup-style community tournament for any osu! player with a 5 digit rank." />
-      <meta property="og:image" content="https://5wc.stagec.xyz/logo_and_name_inv.png" />
+      <meta property="og:image" content="https://5wc.stagec.xyz/5wc_logo_and_text_nontransparent.png" />
 
       <meta name="twitter:card" content="summary_large_image" />
       <meta property="twitter:domain" content="5wc.stagec.xyz" />
@@ -45,7 +45,7 @@ The 5 Digit World Cup is an annual world-cup-style community tournament for any 
       <meta name="twitter:description" content="Calling all 5 digit osu! players! After a long wait, the 5 Digit World Cup is back — and it's better than ever.
 
 The 5 Digit World Cup is an annual world-cup-style community tournament for any osu! player with a 5 digit rank." />
-      <meta name="twitter:image" content="https://5wc.stagec.xyz/logo_and_name_inv.png" />
+      <meta name="twitter:image" content="https://5wc.stagec.xyz/5wc_logo_and_text_nontransparent.png" />
     </head>
     <ErrorProvider>
       <UserProvider>
